@@ -18,3 +18,4 @@ I'm a software engineer from Brazil 🇧🇷, working with .net (core / full fra
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![JIRA](https://img.shields.io/badge/-JIRA-0052CC?style=flat-square&logo=jira)
 ![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![VisualStudio](https://img.shields.io/badge/-VisualStudio-7a53d0?style=flat-square&logo=visual-studio-code&logoColor=white)
