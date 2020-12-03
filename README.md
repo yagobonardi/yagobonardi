@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a software engineer from Brazil 🇧🇷, working with .net (core / full framework) using C# as lang and sql server database since 2014, but i love other technologies too, like:
+I'm a software engineer from Brazil 🇧🇷, working with .net (core / full framework) using C# as lang and sql server database since 2014, now im using most of my time studing swift (for iOS and macOS apps), but i love other technologies too:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=white)
