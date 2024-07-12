@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Senior Software Engineer @ iOS Indie Developer | Git, Ethical Hacking, Linux
+Senior Software Engineer @ iOS Indie Developer | Ethical Hacking
