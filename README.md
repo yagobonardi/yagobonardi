@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-Senior Software Engineer @ iOS Indie Developer | Ethical Hacking
+Senior Software Engineer dotnet core | iOS Indie Developer | Ethical Hacking
